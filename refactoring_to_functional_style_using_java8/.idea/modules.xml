@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code/exercise_1/exercise_1.iml" filepath="$PROJECT_DIR$/code/exercise_1/exercise_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/exercise_2/exercise_2.iml" filepath="$PROJECT_DIR$/code/exercise_2/exercise_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/exercise_3/exercise_3.iml" filepath="$PROJECT_DIR$/code/exercise_3/exercise_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/exercise_4/exercise_4.iml" filepath="$PROJECT_DIR$/code/exercise_4/exercise_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/exercise_5/exercise_5.iml" filepath="$PROJECT_DIR$/code/exercise_5/exercise_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/exercise_6/exercise_6.iml" filepath="$PROJECT_DIR$/code/exercise_6/exercise_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/refactoring_to_functional_style_using_java8.iml" filepath="$PROJECT_DIR$/.idea/refactoring_to_functional_style_using_java8.iml" />
+    </modules>
+  </component>
+</project>

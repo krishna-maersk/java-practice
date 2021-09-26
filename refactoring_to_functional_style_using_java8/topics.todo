@@ -1,0 +1,47 @@
+Refactoring to Functional Style using Java 8
+Venkat Subramaniam
+Email: venkats@agiledeveloper.com
+Twitter: @venkat_s
+http://www.agiledeveloper.com download link
+
+How is it different:
+-Java 8 and functional Style
+-higher-order functions
+-favor immutability
+-declarative style
+-lambdas
+-streams
+-lazy evaluations   
+
+Exercise 1: is prime:
+-from imperative to declarative/functional
+-less noise
+-no garbage variables
+-using higher-order functions
+
+Exercise 2: lines count:
+-from imperative to functional
+-no explicit mutability
+-using streams and filter
+
+Exercise 3: grouping:
+-from verbose to concise
+-highly expressive
+-declarative
+-using specialized functions
+
+Exercise 4: decorator:
+-bloated OO to lightweight functional
+-using higher-order functions
+-composing operations
+
+Exercise 5: Pythagorean triples:
+-From messy iterative to functional
+-using function composition
+-using lazy evaluation     
+
+Exercise 6: sum of sqrt of k primes starting with n:
+-from cryptic to clear
+-concise
+-infinite series
+-lazy evaluation
