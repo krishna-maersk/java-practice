@@ -16,6 +16,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-webflux:2.5.4'
     implementation 'org.springframework.boot:spring-boot-starter-data-mongodb-reactive:2.5.4'
     implementation 'de.flapdoodle.embed:de.flapdoodle.embed.mongo:3.0.0'
+    implementation 'junit:junit:4.13.1'
     developmentOnly 'org.springframework.boot:spring-boot-devtools:2.5.4'
     testImplementation 'org.springframework.boot:spring-boot-starter-test:2.5.4'
     testImplementation 'io.projectreactor:reactor-test:3.4.10'
